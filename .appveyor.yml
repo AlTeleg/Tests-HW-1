@@ -5,7 +5,7 @@ branches:
     - master
 cache: node_modules
 install:
-  - npm install -g
+  - npm install
 build: off
 test_script:
   - npm run lint && npm test
