@@ -1,5 +1,5 @@
 image: Visual Studio 2015
-stack: node 19
+stack: node 14
 branches: 
   only:
     - master
