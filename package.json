@@ -4,7 +4,6 @@
   "description": "",
   "main": "../src/game.js",
   "scripts": {
-    "start": "src game",
     "test": "jest --coverage",
     "lint": "eslint ."
   },
